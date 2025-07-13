@@ -34,7 +34,7 @@
     "@mui/x-charts": "^8.2.0",
     "@nivo/bar": "^0.62.0",
     "@nivo/line": "^0.62.0",
-    "@nivo/scatterplot": "^0.62.0",
+    "@nivo/scatterplot": "^0.99.0",
     "@uidotdev/usehooks": "^2.4.1",
     "dayjs": "^1.11.10",
     "openapi-fetch": "^0.9.5",
