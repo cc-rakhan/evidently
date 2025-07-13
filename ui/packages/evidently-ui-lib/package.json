@@ -37,7 +37,7 @@
     "@nivo/scatterplot": "^0.62.0",
     "@uidotdev/usehooks": "^2.4.1",
     "dayjs": "^1.11.10",
-    "openapi-fetch": "^0.9.5",
+    "openapi-fetch": "^0.14.0",
     "plotly.js": "^2.26.2",
     "plotly.js-cartesian-dist-min": "^2.26.2",
     "react-hook-form": "^7.47.0",
